@@ -1,1 +1,3 @@
-# Principios_Automatizaci-n_Rob-tica.
+# **Principios de Automatización y Robótica**
+
+* Portafolios de tareas
