@@ -1,0 +1,6 @@
+  E1 AT %IX0.0: BOOL; (* Entrada 1 *)
+  E2 AT %IX0.4: BOOL; (* Entrada 2 *)
+  GARRA AT %QX0.3: BOOL; (* Garra *)
+  PISTON AT %QX0.4: BOOL; (* Piston movimiento  *)
+  IZQ AT %QX0.0: BOOL; (* Izquierda movimiento *)
+  DER AT %QX0.1: BOOL; (* Derecha movimiento *)
