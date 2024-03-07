@@ -1,0 +1,19 @@
+
+""*** 0001 ***
+w( E1.1 "LLAVE
+u E0.0 "SEN_OPTICO
+un E0.2 "V1
+)
+q A0.0 "RIEL_IZQ
+
+""*** 0002 ***
+wn E1.1 "BOTON_2
+q A0.1 "RIEL_DER
+
+""*** 0003 ***
+w( A0.3 "GARRA_OFF
+u A0.4 "PISTON_OFF
+)
+q A0.3 "GARRA_ON
+
+q A0.4 "PISTON_ON

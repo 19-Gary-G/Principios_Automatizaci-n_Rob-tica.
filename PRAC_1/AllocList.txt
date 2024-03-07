@@ -1,0 +1,2 @@
+  I1 AT %IX1.2: BOOL; (*  *)
+  PISTON AT %QX0.4: BOOL; (*  *)
