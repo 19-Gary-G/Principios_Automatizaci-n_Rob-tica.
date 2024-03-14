@@ -1,0 +1,14 @@
+w:BTN_STR;
+u:SENSOR;
+ds:LED_Q1;
+fr:LED_Q1;
+
+w:BTN_STR;
+u:BTN_RST;
+ds:LED_Q1;
+fr:LED_Q1;
+
+w:BTN_RST;
+u:SENSOR;
+ds:LED_Q1;
+fr:LED_Q1;
