@@ -1,0 +1,4 @@
+  BTN_RESET AT %IX1.3: BOOL; (* RESET *)
+  LED_Q1 AT %QX1.2: BOOL; (* LED_Q+ *)
+  BTN_START AT %IX1.0: BOOL; (* START *)
+  LED_Q2 AT %QX1.3: BOOL; (* LED_Q- *)
