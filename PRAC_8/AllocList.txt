@@ -1,0 +1,4 @@
+  BTN_START AT %IX1.0: BOOL; (*  *)
+  BTN_STOP AT %IX1.1: BOOL; (*  *)
+  DRILL AT %QX1.2: BOOL; (*  *)
+  ZUMB AT %QX1.3: BOOL; (*  *)
