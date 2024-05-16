@@ -1,0 +1,18 @@
+
+""*** 0001 ***
+w((( :SENS_1;
+u :START;
+)
+o :Right;
+)
+un :SENS_2;
+)
+q :Right;
+
+""*** 0002 ***
+w(( :SENS_2;
+o :Left;
+)
+un :SENS_1;
+)
+q :Left;
