@@ -1,0 +1,5 @@
+  START AT %IX1.0: BOOL; (*  *)
+  LEFT_1 AT %QX0.0: BOOL; (*  *)
+  RIGHT_1 AT %QX0.1: BOOL; (*  *)
+  LEFT_2 AT %QX1.6: BOOL; (*  *)
+  RIGHT_2 AT %QX1.7: BOOL; (*  *)
