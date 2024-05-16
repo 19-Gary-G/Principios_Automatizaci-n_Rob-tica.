@@ -1,0 +1,25 @@
+
+""*** 0001 ***
+w(( :SENS_1;
+u :START;
+)
+o E0.1
+)
+sTE1
+m5
+
+""*** 0002 ***
+w( :START;
+o( :RIGHT;
+un E0.1
+)
+)
+q :RIGHT;
+
+""*** 0003 ***
+w( :TIMER;
+o( :LEFT;
+un :SENS_1;
+)
+)
+q :LEFT;
