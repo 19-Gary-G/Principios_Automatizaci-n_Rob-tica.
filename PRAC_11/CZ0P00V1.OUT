@@ -1,0 +1,22 @@
+
+""*** 0001 ***
+w :START;
+sTE1
+m3
+
+""*** 0002 ***
+w(( :TIMER;
+o :RIGHT;
+)
+un :SENS_1;
+)
+q :RIGHT;
+
+""*** 0003 ***
+w(( :SENS_1;
+o :LEFT;
+)
+un :SENS_2;
+un :TIMER;
+)
+q :LEFT;

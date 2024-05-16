@@ -1,0 +1,5 @@
+  START AT %IX1.0: BOOL; (*  *)
+  SENS_1 AT %IX0.1: BOOL; (*  *)
+  SENS_2 AT %IX0.2: BOOL; (*  *)
+  LEFT AT %QX0.0: BOOL; (*  *)
+  RIGHT AT %QX0.1: BOOL; (*  *)
